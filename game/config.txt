@@ -1,0 +1,5 @@
+Game_name:webgal-demo;
+Game_key:16500d3a50a035d;
+Title_img:WebGAL_New_Enter_Image.png;
+Title_bgm:s_Title.mp3;
+Textbox_theme:imss;
